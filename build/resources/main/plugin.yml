@@ -1,0 +1,12 @@
+name: InfiniteBucket
+version: '1.0-SNAPSHOT'
+main: winlyps.infiniteBucket.InfiniteBucket
+api-version: '1.20'
+authors: [ Winlyps ]
+commands:
+  infwater:
+    description: Gives the player an infinite water bucket.
+    usage: /infwater
+  inflava:
+    description: Gives the player an infinite lava bucket.
+    usage: /inflava
